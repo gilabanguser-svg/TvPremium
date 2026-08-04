@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1,WIB
-https://p1.domain761.sbs/global/winplus/index.m3u8?token=aef027311941a8cb3765da3c287d2b1083e45a71-84-1785928589-1785874589&ip=131.100.103.108
+#EXTINF:-1 LOCOMOTION
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 WIN
+https://bmf0aw9u.fubo18.com/amazon_prime1/mono.m3u8?token=7903e5bd0c40ad30908a39a33953a27a5c99ef4a-a4-1785899597-1785881597
