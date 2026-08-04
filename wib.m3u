@@ -7,25 +7,25 @@ https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1,RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
-EXTINF:-1,CIUDAD MAGICA
+#EXTINF:-1,CIUDAD MAGICA
 https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
-EXTINF:-1,PANTALLA CLASICA
+#EXTINF:-1,PANTALLA CLASICA
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-EXTINF:-1,RETRO TV
+#EXTINF:-1,RETRO TV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
-EXTINF:-1,OPINION SUR CINE
+#EXTINF:-1,OPINION SUR CINE
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
-EXTINF:-1,TELEANIMEMANIA
+#EXTINF:-1,TELEANIMEMANIA
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-EXTINF:-1,TIGUERITOS TV
+#EXTINF:-1,TIGUERITOS TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-EXTINF:-1,WOW MOVIES
+#EXTINF:-1,WOW MOVIES
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-EXTINF:-1,LOS SIMPSONS
+#EXTINF:-1,LOS SIMPSONS
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
-EXTINF:-1,TALTAL 1
+#EXTINF:-1,TALTAL 1
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
-EXTINF:-1,TALTAL 2
+#EXTINF:-1,TALTAL 2
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
-EXTINF:-1,TALTAL 3
+#EXTINF:-1,TALTAL 3
 https://183.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/chunks.m3u8
