@@ -27,6 +27,8 @@ http://45.181.122.46:8090/play/a00t
 http://181.118.156.46:8000/play/a05t/index.m3u8
 #EXTINF:-1,BITME
 http://38.44.109.41:8003/play/a00f/index.m3u8
+#EXTINF:-1,EL CHAVO DEL 8
+https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1,CIUDAD MAGICA
@@ -43,10 +45,18 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1,WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1,TU CINE
+https://live20.bozztv.com/akamaissh101/ssh101/xiomoz/chunks.m3u8
 #EXTINF:-1,SONY ONE ACTION
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+#EXTINF:-1,SONY THRILLER
+https://d1wuti7vf6eqt9.cloudfront.net/playlist_7.m3u8
 #EXTINF:-1,SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1,ENT CHANNEL
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ET FAMILY
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MR BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel_id=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=comedy&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.176&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6617&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=e6aa0984-c91a-445e-909e-9755c77c3d31&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,LOS SIMPSONS
