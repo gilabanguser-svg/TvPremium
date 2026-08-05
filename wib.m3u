@@ -9,10 +9,10 @@ https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 https://kali.vdopanel.com:3140/stream/play.m3u8
 #EXTINF:-1,MAGICTV 2
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-#EXTINF:-1,LOCOMOTION
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,RETRO MAGICO
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1,LOCOMOTION
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ENERGEEK FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1,ENERGEEK RETRO
