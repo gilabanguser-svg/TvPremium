@@ -13,8 +13,20 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,RETRO MAGICO
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1,ENERGEEK FAN
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1,ENERGEEK RETRO
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1,GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1,TOONCAST
+http://38.224.231.47:8000/play/a02e/index.m3u8
+#EXTINF;-1,ETC
+http://45.181.122.46:8090/play/a00t
+#EXTINF:-1,ADULT SWIMM
+http://181.118.156.46:8000/play/a05t/index.m3u8
+#EXTINF:-1,BITME
+http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1,RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1,CIUDAD MAGICA
