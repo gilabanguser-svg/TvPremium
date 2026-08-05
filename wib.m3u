@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1,TNT SPORTS AR
 https://anden26.ddns.net/live/stream.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://andtv10.ddns.net/live/stream.m3u8
 #EXTINF:-1,ESPN PREMIUM
 https://serviciosatv78.ddns.net/live/stream.m3u8
+#EXTINF:-1,ESPN PREMIUM 2
+https://anden92.ddns.net/live/stream.m3u8
+#EXTINF:-1,PARTIDOS BOCA O RIVER
+https://anden92.ddns.net/live/stream.m3u8
 #EXTINF:-1,MAGIC KIDS
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1,EL MAGIC TV
