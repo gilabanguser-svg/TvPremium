@@ -37,6 +37,24 @@ http://181.118.156.46:8000/play/a05t/index.m3u8
 http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1,EL CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AVATAR LA LEYENDA DE AANG
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1,SUPERCAMPEONES
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:-1,INUYASHA
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+#EXTINF:-1,POKEMON
+https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
+#EXTINF:-1,RUGRATS
+https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
+#EXTINF:-1,LOS PADRINOS MAGICOS
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:-1,SOUTH PARK
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1,MACGYVER
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1,POPEYE
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 #EXTINF:-1,RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1,CIUDAD MAGICA
@@ -61,6 +79,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENT FAMILY
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESTRELLAS DE ACCION
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1,MR BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel_id=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=comedy&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=217.216.126.176&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6617&ads_rtv_content_language=en&ads_rtvid=271859&ads_streaming_id=e6aa0984-c91a-445e-909e-9755c77c3d31&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,LOS SIMPSONS
