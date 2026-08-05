@@ -5,6 +5,10 @@ https://anden26.ddns.net/live/stream.m3u8
 https://serviciosatv78.ddns.net/live/stream.m3u8
 #EXTINF:-1,MAGIC KIDS
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,EL MAGIC TV
+https://kali.vdopanel.com:3140/stream/play.m3u8
+#EXTINF:-1,MAGICTV 2
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1,LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,RETRO MAGICO
