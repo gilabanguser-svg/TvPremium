@@ -37,26 +37,8 @@ http://181.118.156.46:8000/play/a05t/index.m3u8
 http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1,EL CHAVO DEL 8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AVATAR LA LEYENDA DE AANG
-https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1,SUPERCAMPEONES
-https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
-#EXTINF:-1,INUYASHA
-https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
-#EXTINF:-1,POKEMON
-https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8
-#EXTINF:-1,RUGRATS
-https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
-#EXTINF:-1,LOS PADRINOS MAGICOS
-https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:-1,SOUTH PARK
-https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
-#EXTINF:-1,MACGYVER
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1,POPEYE
-https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
-#EXTINF:-1,WIPEOUT SUPERMATCH
-https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+#EXTINF:-1,TELERED RETRO
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RETRO PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1,CIUDAD MAGICA
