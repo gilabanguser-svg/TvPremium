@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://share.google/GXdDr1sMieLK4rMkH" group-title="",TNT SPORTS
-#EXTINF:-1,TNT SPORTS AR
 https://anden26.ddns.net/live/stream.m3u8
 #EXTINF:-1,TNT SPORTS 2
 https://anden92.ddns.net/live/stream.m3u8
