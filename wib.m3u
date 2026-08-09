@@ -21,6 +21,8 @@ https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1,LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ENERGEEK
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1,ENERGEEK FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1,ENERGEEK RETRO
@@ -29,6 +31,10 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1,GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1,SPIDERMAN
+https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
+#EXTINF:-1,X-MEN
+https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
 #EXTINF:-1,TOONCAST
 http://38.224.231.47:8000/play/a02e/index.m3u8
 #EXTINF:-1,ETC
