@@ -11,6 +11,8 @@ http://andtv10.ddns.net/live/stream.m3u8
 https://anden92.ddns.net/live/stream.m3u8
 #EXTINF:-1,MAGIC KIDS
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,MAGIC TV RADIO
+https://backend.anii.io/api/a/argentina.republicahosting.com:8197/stream
 #EXTINF:-1,EL MAGIC TV
 https://kali.vdopanel.com:3140/stream/play.m3u8
 #EXTINF:-1,MAGICTV 2
@@ -65,6 +67,8 @@ https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1,RETROX
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
+#EXTINF:-1,OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1,MI TV
 https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1,WOW MOVIES
