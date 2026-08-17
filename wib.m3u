@@ -11,6 +11,8 @@ http://andtv10.ddns.net/live/stream.m3u8
 https://anden92.ddns.net/live/stream.m3u8
 #EXTINF:-1,FM TOTORAL
 https://radioinformaticarem.com.ar:8000/streamaac
+#EXTINF:-1,CAROYA FM
+https://stm2.livecastradio.com:27319/;
 #EXTINF:-1,MAGIC KIDS
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1,MAGIC KIDS TV RADIO
