@@ -47,6 +47,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1,X-MEN
 https://live20.bozztv.com/giatvplayout7/giatv-210703/playlist.m3u8
+#EXTINF:-1,CN CITY
+https://envivo.cncity.live/hls/envivo.m3u8
 #EXTINF:-1,TOONCAST
 http://38.224.231.47:8000/play/a02e/index.m3u8
 #EXTINF:-1,ETC
