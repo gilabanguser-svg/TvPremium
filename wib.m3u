@@ -41,6 +41,8 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1,GOKU TV
 https://live20.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
+#EXTINF:-1,LOS CUENTOS DE LA KRIPTA
+https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
 #EXTINF:-1,SPIDERMAN
 https://live20.bozztv.com/giatvplayout7/giatv-210702/playlist.m3u8
 #EXTINF:-1,X-MEN
