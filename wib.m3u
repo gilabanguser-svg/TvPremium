@@ -31,6 +31,8 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1,RETRO MAGICO GIATV
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
+#EXTINF:-1,JAPANMOTION
+https://tv.japanmotion.com/iptv/channel/1.m3u8?mode=segmenter
 #EXTINF:-1,LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ENERGEEK FAN
