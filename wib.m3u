@@ -21,6 +21,8 @@ https://srv10.streamingradio.ar/8396/stream
 https://sonicpanel.hostradios.com/4250/stream
 #EXTINF:-1,MAGIC KIDS
 https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,MAGIC KIDZ
+https://kali.vdopanel.com:3074/stream/play.m3u8
 #EXTINF:-1,MAGIC KIDS TV RADIO
 https://backend.anii.io/api/a/argentina.republicahosting.com:8197/stream
 #EXTINF:-1,EL MAGIC TV
