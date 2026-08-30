@@ -101,6 +101,8 @@ https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1,RETRO TV
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+#EXTINF:-1,DREIKO TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1,OPINION SUR CINE
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 #EXTINF:-1,TIGUERITOS TV
