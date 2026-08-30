@@ -51,6 +51,8 @@ https://cdnlive.klicgo.net/maxanime/live/chunklist_w678731897_DVR.m3u8
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1,ENERGEEK RETRO
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1,ENERGEEK RETRO2
+https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1,TELEANIMEMANIA
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1,POKEMON
