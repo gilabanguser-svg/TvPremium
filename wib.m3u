@@ -97,6 +97,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,BEST CLASICOS
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:-1,21 HD PELIS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1,+CINE CLASSIC
 http://190.102.242.130:25461/cineclasiipowe/12345/143
 #EXTINF:-1,CIUDAD MAGICA
