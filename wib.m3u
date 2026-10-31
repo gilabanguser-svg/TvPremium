@@ -218,3 +218,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/unimas.png" group-title="Latino USA",Unimas East 🇺🇸🇲🇽⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television (1080p)
+http://190.93.224.42/AMERICA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (Peru) (1080p)
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (1080p)
+http://190.93.224.42/ATV-SUR/index.m3u8
