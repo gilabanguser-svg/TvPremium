@@ -220,15 +220,15 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/univision-uni?anvack=8Q6d5qd2lubv3MRh
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (Peru) (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="PERU",ATV (Peru) (1080p)
 http://190.93.224.42/ATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="PERU",ATV Sur (1080p)
 http://190.93.224.42/ATV-SUR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="General",Global TV (Peru) (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="PERU",Global TV (Peru) (1080p)
 http://190.93.224.42/GLOBAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="PERU",Latina (1080p)
 http://190.93.224.42/LATINA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU",Panamericana TV (1080p)
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Peru (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="PERU",TV Peru (1080p)
 http://190.93.224.42/TV-PERU/index.m3u8
