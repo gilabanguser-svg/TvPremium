@@ -169,3 +169,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title=" Music",Total Music Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, MIRAMAX movie channel
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#EXTINF:-1, UNIVERSAL MOVIES
+https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8
