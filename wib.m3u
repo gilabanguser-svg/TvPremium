@@ -4208,3 +4208,6 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="Family",TV Familia (720p)
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+
+
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
